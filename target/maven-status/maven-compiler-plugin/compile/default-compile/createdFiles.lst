@@ -1,0 +1,10 @@
+br/com/victorsantos/todolist/user/UserController.class
+br/com/victorsantos/todolist/user/IUserRepository.class
+br/com/victorsantos/todolist/task/ITaskRepository.class
+br/com/victorsantos/todolist/user/UserModel.class
+br/com/victorsantos/todolist/task/TaskController.class
+br/com/victorsantos/todolist/filter/FilterTaskAuth.class
+br/com/victorsantos/todolist/utils/Utils.class
+br/com/victorsantos/todolist/TodolistApplication.class
+br/com/victorsantos/todolist/errors/ExceptionHandlerController.class
+br/com/victorsantos/todolist/task/TaskModel.class
